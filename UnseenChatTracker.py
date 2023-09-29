@@ -119,7 +119,7 @@ with client:
 
     sys.stdout.write("\n")  # Move to the next line
     
-     if not unseen_chats:
+    if not unseen_chats:
             if display_results:
                 print("welp, it looks like you are lonely as always. It's fine, you have me <3")
 
